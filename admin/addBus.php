@@ -26,6 +26,7 @@
                         <option value="Bali">Bali</option>
                         <option value="Bekasi">Bekasi</option>
                         <option value="Depok">Depok</option>
+                        <option value="Jakarta">Jakarta</option>
                     </select>
                 </div>
                 <div class="col-12">
@@ -35,6 +36,7 @@
                         <option value="Bali">Bali</option>
                         <option value="Bekasi">Bekasi</option>
                         <option value="Depok">Depok</option>
+                        <option value="Jakarta">Jakarta</option>
                     </select>
                 </div>
                 <div class="col-12">

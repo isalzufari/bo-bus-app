@@ -21,7 +21,7 @@
             </div>
             <div class="row mt-3">
                 <?php
-                $sqlShowBus=$db->query("SELECT * FROM bus");
+                $sqlShowBus=$db->query("SELECT * FROM bus ORDER BY tgl_kbrkt DESC");
                 $showBus = 1; // $sqlShowBus->fetch();
 
                 if ($showBus) {
