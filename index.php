@@ -29,6 +29,9 @@
               <option value="depok">Depok</option>
               <option value="jakarta">Jakarta</option>
               <option value="bogor">Bogor</option>
+              <option value="bandung">Bandung</option>
+              <option value="bali">Bali</option>
+              <option value="bekasi">Bekasi</option>
             </select>
             <div class="mb-3">
               <label for="departureDate" class="form-label">Departure Date</label>
@@ -38,6 +41,9 @@
           <div class="col">
             <label for="toBus" class="form-label">To</label>
             <select id="toBus" class="form-select mb-3" aria-label="Default select example">
+              <option value="depok">Depok</option>
+              <option value="jakarta">Jakarta</option>
+              <option value="bogor">Bogor</option>
               <option value="bandung">Bandung</option>
               <option value="bali">Bali</option>
               <option value="bekasi">Bekasi</option>
